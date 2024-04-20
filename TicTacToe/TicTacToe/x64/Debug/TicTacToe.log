@@ -1,0 +1,6 @@
+﻿  Tictactoe.cpp
+  action.cpp
+C:\Users\Boubou\Desktop\project cpp\Tic tac toe\TicTacToe\Tictactoe.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Boubou\Desktop\project cpp\Tic tac toe\TicTacToe\action.cpp(23,1): warning C4715: 'Bot::choiceBot': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\Boubou\Desktop\project cpp\Tic tac toe\TicTacToe\x64\Debug\TicTacToe.exe
