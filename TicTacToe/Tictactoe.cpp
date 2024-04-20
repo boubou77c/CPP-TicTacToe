@@ -3,6 +3,8 @@
 #include <vector>
 #include "header.h"
 #include <algorithm>
+#include <time.h>
+#include <thread>
 typedef std::string string;
 
 int main() {
@@ -61,6 +63,8 @@ int main() {
 		}
 		
 	}
+
+	std::this_thread::sleep_for(std::chrono::seconds(4));
 
 	return 0;
 
